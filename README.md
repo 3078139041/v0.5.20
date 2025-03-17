@@ -1,4 +1,4 @@
-# 威海政务大模型 👋
+# 中科融合算力中心大模型服务平台 👋
 
 ![GitHub stars](https://img.shields.io/github/stars/open-webui/open-webui?style=social)
 ![GitHub forks](https://img.shields.io/github/forks/open-webui/open-webui?style=social)
@@ -11,18 +11,18 @@
 [![Discord](https://img.shields.io/badge/Discord-Open_WebUI-blue?logo=discord&logoColor=white)](https://discord.gg/5rJgQTnV4s)
 [![](https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86)](https://github.com/sponsors/tjbck)
 
-**威海政务大模型 is an [extensible](https://docs.openwebui.com/features/plugin/), feature-rich, and user-friendly self-hosted AI platform designed to operate entirely offline.** It supports various LLM runners like **Ollama** and **OpenAI-compatible APIs**, with **built-in inference engine** for RAG, making it a **powerful AI deployment solution**.
+**中科融合算力中心大模型服务平台 is an [extensible](https://docs.openwebui.com/features/plugin/), feature-rich, and user-friendly self-hosted AI platform designed to operate entirely offline.** It supports various LLM runners like **Ollama** and **OpenAI-compatible APIs**, with **built-in inference engine** for RAG, making it a **powerful AI deployment solution**.
 
-![威海政务大模型 Demo](./demo.gif)
+![中科融合算力中心大模型服务平台 Demo](./demo.gif)
 
 > [!TIP]  
 > **Looking for an [Enterprise Plan](https://docs.openwebui.com/enterprise)?** – **[Speak with Our Sales Team Today!](mailto:sales@openwebui.com)**
 >
 > Get **enhanced capabilities**, including **custom theming and branding**, **Service Level Agreement (SLA) support**, **Long-Term Support (LTS) versions**, and **more!**
 
-For more information, be sure to check out our [威海政务大模型 Documentation](https://docs.openwebui.com/).
+For more information, be sure to check out our [中科融合算力中心大模型服务平台 Documentation](https://docs.openwebui.com/).
 
-## Key Features of 威海政务大模型 ⭐
+## Key Features of 中科融合算力中心大模型服务平台 ⭐
 
 - 🚀 **Effortless Setup**: Install seamlessly using Docker or Kubernetes (kubectl, kustomize or helm) for a hassle-free experience with support for both `:ollama` and `:cuda` tagged images.
 
@@ -38,7 +38,7 @@ For more information, be sure to check out our [威海政务大模型 Documentat
 
 - 🎤📹 **Hands-Free Voice/Video Call**: Experience seamless communication with integrated hands-free voice and video call features, allowing for a more dynamic and interactive chat environment.
 
-- 🛠️ **Model Builder**: Easily create Ollama models via the Web UI. Create and add custom characters/agents, customize chat elements, and import models effortlessly through [威海政务大模型 Community](https://openwebui.com/) integration.
+- 🛠️ **Model Builder**: Easily create Ollama models via the Web UI. Create and add custom characters/agents, customize chat elements, and import models effortlessly through [中科融合算力中心大模型服务平台 Community](https://openwebui.com/) integration.
 
 - 🐍 **Native Python Function Calling Tool**: Enhance your LLMs with built-in code editor support in the tools workspace. Bring Your Own Function (BYOF) by simply adding your pure Python functions, enabling seamless integration with LLMs.
 
@@ -54,50 +54,50 @@ For more information, be sure to check out our [威海政务大模型 Documentat
 
 - 🔐 **Role-Based Access Control (RBAC)**: Ensure secure access with restricted permissions; only authorized individuals can access your Ollama, and exclusive model creation/pulling rights are reserved for administrators.
 
-- 🌐🌍 **Multilingual Support**: Experience 威海政务大模型 in your preferred language with our internationalization (i18n) support. Join us in expanding our supported languages! We're actively seeking contributors!
+- 🌐🌍 **Multilingual Support**: Experience 中科融合算力中心大模型服务平台 in your preferred language with our internationalization (i18n) support. Join us in expanding our supported languages! We're actively seeking contributors!
 
-- 🧩 **Pipelines, 威海政务大模型 Plugin Support**: Seamlessly integrate custom logic and Python libraries into 威海政务大模型 using [Pipelines Plugin Framework](https://github.com/open-webui/pipelines). Launch your Pipelines instance, set the OpenAI URL to the Pipelines URL, and explore endless possibilities. [Examples](https://github.com/open-webui/pipelines/tree/main/examples) include **Function Calling**, User **Rate Limiting** to control access, **Usage Monitoring** with tools like Langfuse, **Live Translation with LibreTranslate** for multilingual support, **Toxic Message Filtering** and much more.
+- 🧩 **Pipelines, 中科融合算力中心大模型服务平台 Plugin Support**: Seamlessly integrate custom logic and Python libraries into 中科融合算力中心大模型服务平台 using [Pipelines Plugin Framework](https://github.com/open-webui/pipelines). Launch your Pipelines instance, set the OpenAI URL to the Pipelines URL, and explore endless possibilities. [Examples](https://github.com/open-webui/pipelines/tree/main/examples) include **Function Calling**, User **Rate Limiting** to control access, **Usage Monitoring** with tools like Langfuse, **Live Translation with LibreTranslate** for multilingual support, **Toxic Message Filtering** and much more.
 
-- 🌟 **Continuous Updates**: We are committed to improving 威海政务大模型 with regular updates, fixes, and new features.
+- 🌟 **Continuous Updates**: We are committed to improving 中科融合算力中心大模型服务平台 with regular updates, fixes, and new features.
 
-Want to learn more about 威海政务大模型's features? Check out our [威海政务大模型 documentation](https://docs.openwebui.com/features) for a comprehensive overview!
+Want to learn more about 中科融合算力中心大模型服务平台's features? Check out our [中科融合算力中心大模型服务平台 documentation](https://docs.openwebui.com/features) for a comprehensive overview!
 
-## 🔗 Also Check Out 威海政务大模型 Community!
+## 🔗 Also Check Out 中科融合算力中心大模型服务平台 Community!
 
-Don't forget to explore our sibling project, [威海政务大模型 Community](https://openwebui.com/), where you can discover, download, and explore customized Modelfiles. 威海政务大模型 Community offers a wide range of exciting possibilities for enhancing your chat interactions with 威海政务大模型! 🚀
+Don't forget to explore our sibling project, [中科融合算力中心大模型服务平台 Community](https://openwebui.com/), where you can discover, download, and explore customized Modelfiles. 中科融合算力中心大模型服务平台 Community offers a wide range of exciting possibilities for enhancing your chat interactions with 中科融合算力中心大模型服务平台! 🚀
 
 ## How to Install 🚀
 
 ### Installation via Python pip 🐍
 
-威海政务大模型 can be installed using pip, the Python package installer. Before proceeding, ensure you're using **Python 3.11** to avoid compatibility issues.
+中科融合算力中心大模型服务平台 can be installed using pip, the Python package installer. Before proceeding, ensure you're using **Python 3.11** to avoid compatibility issues.
 
-1. **Install 威海政务大模型**:
-   Open your terminal and run the following command to install 威海政务大模型:
+1. **Install 中科融合算力中心大模型服务平台**:
+   Open your terminal and run the following command to install 中科融合算力中心大模型服务平台:
 
    ```bash
    pip install open-webui
    ```
 
-2. **Running 威海政务大模型**:
-   After installation, you can start 威海政务大模型 by executing:
+2. **Running 中科融合算力中心大模型服务平台**:
+   After installation, you can start 中科融合算力中心大模型服务平台 by executing:
 
    ```bash
    open-webui serve
    ```
 
-This will start the 威海政务大模型 server, which you can access at [http://localhost:8080](http://localhost:8080)
+This will start the 中科融合算力中心大模型服务平台 server, which you can access at [http://localhost:8080](http://localhost:8080)
 
 ### Quick Start with Docker 🐳
 
 > [!NOTE]  
-> Please note that for certain Docker environments, additional configurations might be needed. If you encounter any connection issues, our detailed guide on [威海政务大模型 Documentation](https://docs.openwebui.com/) is ready to assist you.
+> Please note that for certain Docker environments, additional configurations might be needed. If you encounter any connection issues, our detailed guide on [中科融合算力中心大模型服务平台 Documentation](https://docs.openwebui.com/) is ready to assist you.
 
 > [!WARNING]
-> When using Docker to install 威海政务大模型, make sure to include the `-v open-webui:/app/backend/data` in your Docker command. This step is crucial as it ensures your database is properly mounted and prevents any loss of data.
+> When using Docker to install 中科融合算力中心大模型服务平台, make sure to include the `-v open-webui:/app/backend/data` in your Docker command. This step is crucial as it ensures your database is properly mounted and prevents any loss of data.
 
 > [!TIP]  
-> If you wish to utilize 威海政务大模型 with Ollama included or CUDA acceleration, we recommend utilizing our official images tagged with either `:cuda` or `:ollama`. To enable CUDA, you must install the [Nvidia CUDA container toolkit](https://docs.nvidia.com/dgx/nvidia-container-runtime-upgrade/) on your Linux/WSL system.
+> If you wish to utilize 中科融合算力中心大模型服务平台 with Ollama included or CUDA acceleration, we recommend utilizing our official images tagged with either `:cuda` or `:ollama`. To enable CUDA, you must install the [Nvidia CUDA container toolkit](https://docs.nvidia.com/dgx/nvidia-container-runtime-upgrade/) on your Linux/WSL system.
 
 ### Installation with Default Configuration
 
@@ -115,7 +115,7 @@ This will start the 威海政务大模型 server, which you can access at [http:
   docker run -d -p 3000:8080 -e OLLAMA_BASE_URL=https://example.com -v open-webui:/app/backend/data --name open-webui --restart always ghcr.io/open-webui/open-webui:main
   ```
 
-- **To run 威海政务大模型 with Nvidia GPU support**, use this command:
+- **To run 中科融合算力中心大模型服务平台 with Nvidia GPU support**, use this command:
 
   ```bash
   docker run -d -p 3000:8080 --gpus all --add-host=host.docker.internal:host-gateway -v open-webui:/app/backend/data --name open-webui --restart always ghcr.io/open-webui/open-webui:cuda
@@ -129,9 +129,9 @@ This will start the 威海政务大模型 server, which you can access at [http:
   docker run -d -p 3000:8080 -e OPENAI_API_KEY=your_secret_key -v open-webui:/app/backend/data --name open-webui --restart always ghcr.io/open-webui/open-webui:main
   ```
 
-### Installing 威海政务大模型 with Bundled Ollama Support
+### Installing 中科融合算力中心大模型服务平台 with Bundled Ollama Support
 
-This installation method uses a single container image that bundles 威海政务大模型 with Ollama, allowing for a streamlined setup via a single command. Choose the appropriate command based on your hardware setup:
+This installation method uses a single container image that bundles 中科融合算力中心大模型服务平台 with Ollama, allowing for a streamlined setup via a single command. Choose the appropriate command based on your hardware setup:
 
 - **With GPU Support**:
   Utilize GPU resources by running the following command:
@@ -147,19 +147,19 @@ This installation method uses a single container image that bundles 威海政务
   docker run -d -p 3000:8080 -v ollama:/root/.ollama -v open-webui:/app/backend/data --name open-webui --restart always ghcr.io/open-webui/open-webui:ollama
   ```
 
-Both commands facilitate a built-in, hassle-free installation of both 威海政务大模型 and Ollama, ensuring that you can get everything up and running swiftly.
+Both commands facilitate a built-in, hassle-free installation of both 中科融合算力中心大模型服务平台 and Ollama, ensuring that you can get everything up and running swiftly.
 
-After installation, you can access 威海政务大模型 at [http://localhost:3000](http://localhost:3000). Enjoy! 😄
+After installation, you can access 中科融合算力中心大模型服务平台 at [http://localhost:3000](http://localhost:3000). Enjoy! 😄
 
 ### Other Installation Methods
 
-We offer various installation alternatives, including non-Docker native installation methods, Docker Compose, Kustomize, and Helm. Visit our [威海政务大模型 Documentation](https://docs.openwebui.com/getting-started/) or join our [Discord community](https://discord.gg/5rJgQTnV4s) for comprehensive guidance.
+We offer various installation alternatives, including non-Docker native installation methods, Docker Compose, Kustomize, and Helm. Visit our [中科融合算力中心大模型服务平台 Documentation](https://docs.openwebui.com/getting-started/) or join our [Discord community](https://discord.gg/5rJgQTnV4s) for comprehensive guidance.
 
 ### Troubleshooting
 
-Encountering connection issues? Our [威海政务大模型 Documentation](https://docs.openwebui.com/troubleshooting/) has got you covered. For further assistance and to join our vibrant community, visit the [威海政务大模型 Discord](https://discord.gg/5rJgQTnV4s).
+Encountering connection issues? Our [中科融合算力中心大模型服务平台 Documentation](https://docs.openwebui.com/troubleshooting/) has got you covered. For further assistance and to join our vibrant community, visit the [中科融合算力中心大模型服务平台 Discord](https://discord.gg/5rJgQTnV4s).
 
-#### 威海政务大模型: Server Connection Error
+#### 中科融合算力中心大模型服务平台: Server Connection Error
 
 If you're experiencing connection issues, it’s often due to the WebUI docker container not being able to reach the Ollama server at 127.0.0.1:11434 (host.docker.internal:11434) inside the container . Use the `--network=host` flag in your docker command to resolve this. Note that the port changes from 3000 to 8080, resulting in the link: `http://localhost:8080`.
 
@@ -179,7 +179,7 @@ docker run --rm --volume /var/run/docker.sock:/var/run/docker.sock containrrr/wa
 
 In the last part of the command, replace `open-webui` with your container name if it is different.
 
-Check our Updating Guide available in our [威海政务大模型 Documentation](https://docs.openwebui.com/getting-started/updating).
+Check our Updating Guide available in our [中科融合算力中心大模型服务平台 Documentation](https://docs.openwebui.com/getting-started/updating).
 
 ### Using the Dev Branch 🌙
 
@@ -194,7 +194,7 @@ docker run -d -p 3000:8080 -v open-webui:/app/backend/data --name open-webui --a
 
 ### Offline Mode
 
-If you are running 威海政务大模型 in an offline environment, you can set the `HF_HUB_OFFLINE` environment variable to `1` to prevent attempts to download models from the internet.
+If you are running 中科融合算力中心大模型服务平台 in an offline environment, you can set the `HF_HUB_OFFLINE` environment variable to `1` to prevent attempts to download models from the internet.
 
 ```bash
 export HF_HUB_OFFLINE=1
@@ -202,7 +202,7 @@ export HF_HUB_OFFLINE=1
 
 ## What's Next? 🌟
 
-Discover upcoming features on our roadmap in the [威海政务大模型 Documentation](https://docs.openwebui.com/roadmap/).
+Discover upcoming features on our roadmap in the [中科融合算力中心大模型服务平台 Documentation](https://docs.openwebui.com/roadmap/).
 
 ## License 📜
 
@@ -211,7 +211,7 @@ This project is licensed under the [BSD-3-Clause License](LICENSE) - see the [LI
 ## Support 💬
 
 If you have any questions, suggestions, or need assistance, please open an issue or join our
-[威海政务大模型 Discord community](https://discord.gg/5rJgQTnV4s) to connect with us! 🤝
+[中科融合算力中心大模型服务平台 Discord community](https://discord.gg/5rJgQTnV4s) to connect with us! 🤝
 
 ## Star History
 
@@ -225,4 +225,4 @@ If you have any questions, suggestions, or need assistance, please open an issue
 
 ---
 
-Created by [Timothy Jaeryang Baek](https://github.com/tjbck) - Let's make 威海政务大模型 even more amazing together! 💪
+Created by [Timothy Jaeryang Baek](https://github.com/tjbck) - Let's make 中科融合算力中心大模型服务平台 even more amazing together! 💪

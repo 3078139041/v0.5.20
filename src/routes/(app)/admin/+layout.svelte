@@ -20,7 +20,7 @@
 
 <svelte:head>
 	<title>
-		{$i18n.t('Admin Panel')} | {$i18n.t('威海政务大模型')}
+		{$i18n.t('Admin Panel')} | {$i18n.t('中科融合算力中心大模型服务平台')}
 	</title>
 </svelte:head>
 

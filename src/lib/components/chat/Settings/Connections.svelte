@@ -130,7 +130,7 @@
 							{$i18n.t('Connect to your own OpenAI compatible API endpoints.')}
 							<br />
 							<!-- {$i18n.t(
-								'CORS must be properly configured by the provider to allow requests from 威海政务大模型.'
+								'CORS must be properly configured by the provider to allow requests from 中科融合算力中心大模型服务平台.'
 							)} -->
 						</div>
 					</div>

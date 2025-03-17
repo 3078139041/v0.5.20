@@ -126,8 +126,8 @@
 <svelte:head>
 	<title>
 		{title
-			? `${title.length > 30 ? `${title.slice(0, 30)}...` : title} | ${$i18n.t('威海政务大模型')}`
-			: `${$i18n.t('威海政务大模型')}`}
+			? `${title.length > 30 ? `${title.slice(0, 30)}...` : title} | ${$i18n.t('中科融合算力中心大模型服务平台')}`
+			: `${$i18n.t('中科融合算力中心大模型服务平台')}`}
 	</title>
 </svelte:head>
 

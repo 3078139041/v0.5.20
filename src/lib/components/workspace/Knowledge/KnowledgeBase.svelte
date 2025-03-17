@@ -101,6 +101,7 @@
 	let debounceTimeout = null;
 	let mediaQuery;
 	let dragged = false;
+	let fileSize = 1;
 
 	const createFileFromText = (name, content) => {
 		const blob = new Blob([content], { type: 'text/plain' });
@@ -110,8 +111,23 @@
 		return file;
 	};
 
+	// 文件大小转换 size  bytes ==> MB
+	const bytesToMB = (sizeInBytes) => {
+		return sizeInBytes / (1024 * 1024);
+	};
+
 	const uploadFileHandler = async (file) => {
 		console.log(file);
+		const sizeInMB = bytesToMB(file.size).toFixed(4); // 保留 4 位小数
+
+		if (sizeInMB >= fileSize) {
+			toast.error(
+				$i18n.t('RepositorySizeControl{{fileSize}}', {
+					fileSize: fileSize
+				})
+			);
+			return null;
+		}
 
 		const tempItemId = uuidv4();
 		const fileItem = {

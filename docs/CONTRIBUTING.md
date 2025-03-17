@@ -1,19 +1,19 @@
-# Contributing to 威海政务大模型
+# Contributing to 中科融合算力中心大模型服务平台
 
 🚀 **Welcome, Contributors!** 🚀
 
-Your interest in contributing to 威海政务大模型 is greatly appreciated. This document is here to guide you through the process, ensuring your contributions enhance the project effectively. Let's make 威海政务大模型 even better, together!
+Your interest in contributing to 中科融合算力中心大模型服务平台 is greatly appreciated. This document is here to guide you through the process, ensuring your contributions enhance the project effectively. Let's make 中科融合算力中心大模型服务平台 even better, together!
 
 ## 📌 Key Points
 
-### 🦙 Ollama vs. 威海政务大模型
+### 🦙 Ollama vs. 中科融合算力中心大模型服务平台
 
-It's crucial to distinguish between Ollama and 威海政务大模型:
+It's crucial to distinguish between Ollama and 中科融合算力中心大模型服务平台:
 
-- **威海政务大模型** focuses on providing an intuitive and responsive web interface for chat interactions.
+- **中科融合算力中心大模型服务平台** focuses on providing an intuitive and responsive web interface for chat interactions.
 - **Ollama** is the underlying technology that powers these interactions.
 
-If your issue or contribution pertains directly to the core Ollama technology, please direct it to the appropriate [Ollama project repository](https://ollama.com/). 威海政务大模型's repository is dedicated to the web interface aspect only.
+If your issue or contribution pertains directly to the core Ollama technology, please direct it to the appropriate [Ollama project repository](https://ollama.com/). 中科融合算力中心大模型服务平台's repository is dedicated to the web interface aspect only.
 
 ### 🚨 Reporting Issues
 
@@ -26,11 +26,11 @@ Noticed something off? Have an idea? Check our [Issues tab](https://github.com/o
 
 ### 🧭 Scope of Support
 
-We've noticed an uptick in issues not directly related to 威海政务大模型 but rather to the environment it's run in, especially Docker setups. While we strive to support Docker deployment, understanding Docker fundamentals is crucial for a smooth experience.
+We've noticed an uptick in issues not directly related to 中科融合算力中心大模型服务平台 but rather to the environment it's run in, especially Docker setups. While we strive to support Docker deployment, understanding Docker fundamentals is crucial for a smooth experience.
 
-- **Docker Deployment Support**: 威海政务大模型 supports Docker deployment. Familiarity with Docker is assumed. For Docker basics, please refer to the [official Docker documentation](https://docs.docker.com/get-started/overview/).
+- **Docker Deployment Support**: 中科融合算力中心大模型服务平台 supports Docker deployment. Familiarity with Docker is assumed. For Docker basics, please refer to the [official Docker documentation](https://docs.docker.com/get-started/overview/).
 
-- **Advanced Configurations**: Setting up reverse proxies for HTTPS and managing Docker deployments requires foundational knowledge. There are numerous online resources available to learn these skills. Ensuring you have this knowledge will greatly enhance your experience with 威海政务大模型 and similar projects.
+- **Advanced Configurations**: Setting up reverse proxies for HTTPS and managing Docker deployments requires foundational knowledge. There are numerous online resources available to learn these skills. Ensuring you have this knowledge will greatly enhance your experience with 中科融合算力中心大模型服务平台 and similar projects.
 
 ## 💡 Contributing
 
@@ -48,11 +48,11 @@ We welcome pull requests. Before submitting one, please:
 
 ### 📚 Documentation & Tutorials
 
-Help us make 威海政务大模型 more accessible by improving documentation, writing tutorials, or creating guides on setting up and optimizing the web UI.
+Help us make 中科融合算力中心大模型服务平台 more accessible by improving documentation, writing tutorials, or creating guides on setting up and optimizing the web UI.
 
 ### 🌐 Translations and Internationalization
 
-Help us make 威海政务大模型 available to a wider audience. In this section, we'll guide you through the process of adding new translations to the project.
+Help us make 中科融合算力中心大模型服务平台 available to a wider audience. In this section, we'll guide you through the process of adding new translations to the project.
 
 We use JSON files to store translations. You can find the existing translation files in the `src/lib/i18n/locales` directory. Each directory corresponds to a specific language, for example, `en-US` for English (US), `fr-FR` for French (France) and so on. You can refer to [ISO 639 Language Codes](http://www.lingoes.net/en/translator/langcode.htm) to find the appropriate code for a specific language.
 
@@ -68,6 +68,6 @@ Got questions or feedback? Join our [Discord community](https://discord.gg/5rJgQ
 
 ## 🙏 Thank You!
 
-Your contributions, big or small, make a significant impact on 威海政务大模型. We're excited to see what you bring to the project!
+Your contributions, big or small, make a significant impact on 中科融合算力中心大模型服务平台. We're excited to see what you bring to the project!
 
 Together, let's create an even more powerful tool for the community. 🌟

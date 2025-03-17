@@ -195,7 +195,7 @@
 </script>
 
 <svelte:head>
-	<title>#{channel?.name ?? 'Channel'} | 威海政务大模型</title>
+	<title>#{channel?.name ?? 'Channel'} | 中科融合算力中心大模型服务平台</title>
 </svelte:head>
 
 <div

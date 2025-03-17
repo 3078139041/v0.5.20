@@ -1,6 +1,6 @@
 [project]
 name = "open-webui"
-description = "威海政务大模型"
+description = "中科融合算力中心大模型服务平台"
 authors = [
     { name = "Timothy Jaeryang Baek", email = "tim@openwebui.com" }
 ]

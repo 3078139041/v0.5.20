@@ -1,4 +1,4 @@
-### Installing Both Ollama and 威海政务大模型 Using Kustomize
+### Installing Both Ollama and 中科融合算力中心大模型服务平台 Using Kustomize
 
 For cpu-only pod
 
@@ -12,7 +12,7 @@ For gpu-enabled pod
 kubectl apply -k ./kubernetes/manifest
 ```
 
-### Installing Both Ollama and 威海政务大模型 Using Helm
+### Installing Both Ollama and 中科融合算力中心大模型服务平台 Using Helm
 
 Package Helm file first
 

@@ -65,7 +65,7 @@
 			return null;
 		});
 
-		toast.success($i18n.t('Redirecting you to 威海政务大模型 Community'));
+		toast.success($i18n.t('Redirecting you to 中科融合算力中心大模型服务平台 Community'));
 
 		const url = 'https://openwebui.com';
 
@@ -192,7 +192,7 @@
 
 <svelte:head>
 	<title>
-		{$i18n.t('Functions')} | {$i18n.t('威海政务大模型')}
+		{$i18n.t('Functions')} | {$i18n.t('中科融合算力中心大模型服务平台')}
 	</title>
 </svelte:head>
 
@@ -469,7 +469,7 @@
 <!-- {#if $config?.features.enable_community_sharing}
 	<div class=" my-16">
 		<div class=" text-xl font-medium mb-1 line-clamp-1">
-			{$i18n.t('Made by 威海政务大模型 Community')}
+			{$i18n.t('Made by 中科融合算力中心大模型服务平台 Community')}
 		</div>
 
 		<a

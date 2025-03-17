@@ -1322,7 +1322,7 @@ async def get_manifest_json():
     return {
         "name": app.state.WEBUI_NAME,
         "short_name": app.state.WEBUI_NAME,
-        "description": "威海政务大模型 is an open, extensible, user-friendly interface for AI that adapts to your workflow.",
+        "description": "中科融合算力中心大模型服务平台 is an open, extensible, user-friendly interface for AI that adapts to your workflow.",
         "start_url": "/",
         "display": "standalone",
         "background_color": "#343541",

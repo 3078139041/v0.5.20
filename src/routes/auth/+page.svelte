@@ -157,7 +157,7 @@
 
 <svelte:head>
 	<title>
-		{`${$i18n.t('威海政务大模型')}`}
+		{`${$i18n.t('中科融合算力中心大模型服务平台')}`}
 	</title>
 </svelte:head>
 
@@ -199,7 +199,7 @@
 							class="flex items-center justify-center gap-3 text-xl sm:text-2xl text-center font-semibold dark:text-gray-200"
 						>
 							<div>
-								{$i18n.t('Signing in to {{WEBUI_NAME}}', { WEBUI_NAME: $i18n.t('威海政务大模型') })}
+								{$i18n.t('Signing in to {{WEBUI_NAME}}', { WEBUI_NAME: $i18n.t('中科融合算力中心大模型服务平台') })}
 							</div>
 
 							<div>
@@ -231,7 +231,7 @@
 
 								<!-- {#if $config?.onboarding ?? false}
 									<div class=" mt-1 text-xs font-medium text-gray-500">
-										ⓘ {$i18n.t('威海政务大模型')}
+										ⓘ {$i18n.t('中科融合算力中心大模型服务平台')}
 										{$i18n.t(
 											'does not make any external connections, and your data stays securely on your locally hosted server.'
 										)}

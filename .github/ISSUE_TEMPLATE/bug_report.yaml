@@ -1,5 +1,5 @@
 name: Bug Report
-description: Create a detailed bug report to help us improve 威海政务大模型.
+description: Create a detailed bug report to help us improve 中科融合算力中心大模型服务平台.
 title: 'issue: '
 labels: ['bug', 'triage']
 assignees: []
@@ -13,9 +13,9 @@ body:
 
         - **Before submitting a bug report**: Please check the [Issues](https://github.com/open-webui/open-webui/issues) or [Discussions](https://github.com/open-webui/open-webui/discussions) sections to see if a similar issue has already been reported. If unsure, start a discussion first, as this helps us efficiently focus on improving the project.
 
-        - **Respectful collaboration**: 威海政务大模型 is a volunteer-driven project with a single maintainer and contributors who also have full-time jobs. Please be constructive and respectful in your communication.
+        - **Respectful collaboration**: 中科融合算力中心大模型服务平台 is a volunteer-driven project with a single maintainer and contributors who also have full-time jobs. Please be constructive and respectful in your communication.
 
-        - **Contributing**: If you encounter an issue, consider submitting a pull request or forking the project. We prioritize preventing contributor burnout to maintain 威海政务大模型's quality.
+        - **Contributing**: If you encounter an issue, consider submitting a pull request or forking the project. We prioritize preventing contributor burnout to maintain 中科融合算力中心大模型服务平台's quality.
 
         - **Bug Reproducibility**: If a bug cannot be reproduced using a `:main` or `:dev` Docker setup or with `pip install` on Python 3.11, community assistance may be required. In such cases, we will move it to the "[Issues](https://github.com/open-webui/open-webui/discussions/categories/issues)" Discussions section. Your help is appreciated!
 
@@ -32,7 +32,7 @@ body:
     id: installation-method
     attributes:
       label: Installation Method
-      description: How did you install 威海政务大模型?
+      description: How did you install 中科融合算力中心大模型服务平台?
       options:
         - Git Clone
         - Pip Install
@@ -44,7 +44,7 @@ body:
   - type: input
     id: open-webui-version
     attributes:
-      label: 威海政务大模型 Version
+      label: 中科融合算力中心大模型服务平台 Version
       description: Specify the version (e.g., v0.3.11)
     validations:
       required: true
@@ -81,7 +81,7 @@ body:
       options:
         - label: I have read and followed all instructions in `README.md`.
           required: true
-        - label: I am using the latest version of **both** 威海政务大模型 and Ollama.
+        - label: I am using the latest version of **both** 中科融合算力中心大模型服务平台 and Ollama.
           required: true
         - label: I have checked the browser console logs.
           required: true
@@ -141,4 +141,4 @@ body:
       value: |
         ## Note
         If the bug report is incomplete or does not follow instructions, it may not be addressed. Ensure that you've followed all the **README.md** and **troubleshooting.md** guidelines, and provide all necessary information for us to reproduce the issue.  
-        Thank you for contributing to 威海政务大模型!
+        Thank you for contributing to 中科融合算力中心大模型服务平台!

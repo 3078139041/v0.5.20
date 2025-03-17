@@ -30,7 +30,7 @@
 		const _chat = chat.chat;
 		console.log('share', _chat);
 
-		toast.success($i18n.t('Redirecting you to 威海政务大模型 Community'));
+		toast.success($i18n.t('Redirecting you to 中科融合算力中心大模型服务平台 Community'));
 		const url = 'https://openwebui.com';
 		// const url = 'http://localhost:5173';
 
@@ -143,7 +143,7 @@
 										show = false;
 									}}
 								>
-									{$i18n.t('Share to 威海政务大模型 Community')}
+									{$i18n.t('Share to 中科融合算力中心大模型服务平台 Community')}
 								</button>
 							{/if} -->
 

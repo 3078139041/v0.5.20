@@ -52,7 +52,7 @@
 
 						<div class="my-2">
 							{$i18n.t(
-								'Your entire contribution will go directly to the plugin developer; 威海政务大模型 does not take any percentage. However, the chosen funding platform might have its own fees.'
+								'Your entire contribution will go directly to the plugin developer; 中科融合算力中心大模型服务平台 does not take any percentage. However, the chosen funding platform might have its own fees.'
 							)}
 						</div>
 

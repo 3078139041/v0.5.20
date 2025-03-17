@@ -47,7 +47,7 @@
 		<div>
 			<div class=" mb-2.5 text-sm font-medium flex space-x-2 items-center">
 				<div>
-					{$i18n.t('威海政务大模型')}
+					{$i18n.t('中科融合算力中心大模型服务平台')}
 					{$i18n.t('Version')}
 				</div>
 			</div>
@@ -108,8 +108,8 @@
 
 		{#if $config?.license_metadata}
 			<div class="mb-2 text-xs">
-				{#if !$i18n.t('威海政务大模型').includes('威海政务大模型')}
-					<span class=" text-gray-500 dark:text-gray-300 font-medium">{$i18n.t('威海政务大模型')}</span> -
+				{#if !$i18n.t('中科融合算力中心大模型服务平台').includes('中科融合算力中心大模型服务平台')}
+					<span class=" text-gray-500 dark:text-gray-300 font-medium">{$i18n.t('中科融合算力中心大模型服务平台')}</span> -
 				{/if}
 
 				<span class=" capitalize">{$config?.license_metadata?.type}</span> license purchased by
@@ -151,7 +151,7 @@
 				class="text-xs text-gray-400 dark:text-gray-500">Copyright (c) {new Date().getFullYear()} <a
 					href="https://openwebui.com"
 					target="_blank"
-					class="underline">威海政务大模型 (Timothy Jaeryang Baek)</a
+					class="underline">中科融合算力中心大模型服务平台 (Timothy Jaeryang Baek)</a
 				>
 All rights reserved.
 

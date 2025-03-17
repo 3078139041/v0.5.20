@@ -106,9 +106,9 @@ for source in log_sources:
 log.setLevel(SRC_LOG_LEVELS["CONFIG"])
 
 
-WEBUI_NAME = os.environ.get("WEBUI_NAME", "威海政务大模型")
-if WEBUI_NAME != "威海政务大模型":
-    WEBUI_NAME += " (威海政务大模型)"
+WEBUI_NAME = os.environ.get("WEBUI_NAME", "中科融合算力中心大模型服务平台")
+if WEBUI_NAME != "中科融合算力中心大模型服务平台":
+    WEBUI_NAME += " (中科融合算力中心大模型服务平台)"
 
 WEBUI_FAVICON_URL = "https://openwebui.com/favicon.png"
 
