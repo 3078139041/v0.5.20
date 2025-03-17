@@ -1139,7 +1139,7 @@
 	"Web Search in Chat": "聊天中的网页搜索",
 	"Web Search Query Generation": "网页搜索关键词生成",
 	"Webhook URL": "Webhook URL",
-	"WebUI Settings": "政务大模型 设置",
+	"WebUI Settings": "中科融合算力中心大模型服务平台 设置",
 	"WebUI URL": "WebUI URL",
 	"WebUI will make requests to \"{{url}}/api/chat\"": "WebUI 将向 \"{{url}}/api/chat\" 发出请求",
 	"WebUI will make requests to \"{{url}}/chat/completions\"": "WebUI 将向 \"{{url}}/chat/completions\" 发出请求",
