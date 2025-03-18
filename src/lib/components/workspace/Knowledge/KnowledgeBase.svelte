@@ -101,7 +101,7 @@
 	let debounceTimeout = null;
 	let mediaQuery;
 	let dragged = false;
-	let fileSize = 1;
+	let fileSize = 10;
 
 	const createFileFromText = (name, content) => {
 		const blob = new Blob([content], { type: 'text/plain' });
